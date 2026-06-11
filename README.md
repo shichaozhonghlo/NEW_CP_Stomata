@@ -1,5 +1,3 @@
-<img width="926" height="622" alt="image" src="https://github.com/user-attachments/assets/5da69533-104a-4c99-8f52-92c6847c638c" />User Manual for the Catalpa bungei Leaf Stomata Detection System Based on YOLO11-ESC
-
 1 Introduction
 This document provides a clear and complete guide for the Catalpa bungei stomatal phenotyping system. Its objectives are as follows. First, it clarifies system functions and operational procedures by describing the software features, interface, and stepwise operations to ensure that users can quickly learn to load images, perform automated detection, analyse results, and manage data accurately. Second, it defines software capabilities and standards, serving as a reference for design, development, and acceptance criteria, thereby ensuring consistency between software outcomes and user requirements. Third, it provides technical references for maintenance personnel, testers, and potential future developers to understand software architecture and interaction logic.
 
@@ -28,8 +26,6 @@ stomata_gui/
 2.1.2 Home Page
 
 The home page contains several functional options. At the top, the interface provides home and image detection options. At the bottom, it allows model switching and access to historical results. Each option navigates to its respective interface.
-
-
 
 2.1.3 Image Detection
 
