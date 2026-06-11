@@ -1,4 +1,7 @@
+User Manual for the Catalpa bungei Leaf Stomata Detection System Based on YOLO11-ESC
+
 1 Introduction
+
 This document provides a clear and complete guide for the Catalpa bungei stomatal phenotyping system. Its objectives are as follows. First, it clarifies system functions and operational procedures by describing the software features, interface, and stepwise operations to ensure that users can quickly learn to load images, perform automated detection, analyse results, and manage data accurately. Second, it defines software capabilities and standards, serving as a reference for design, development, and acceptance criteria, thereby ensuring consistency between software outcomes and user requirements. Third, it provides technical references for maintenance personnel, testers, and potential future developers to understand software architecture and interaction logic.
 
 The primary audience for this document includes end users such as researchers and technicians engaged in plant physiology, breeding, or phenomics, as well as project managers, software testers, and technical support staff responsible for system maintenance.
